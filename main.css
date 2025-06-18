@@ -10,6 +10,7 @@ header {
     width: 1024px;
 }
 
-span {
-    white-space: 20px;
+div {
+    font-size: 20px;
+
 }
