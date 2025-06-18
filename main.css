@@ -1,0 +1,15 @@
+@import url(formula1.com);
+
+h1 {
+font-size: 40px;
+width: 1024px;
+text-align: center;
+}
+header {
+    background-color: rgb(0,191,42);
+    width: 1024px;
+}
+
+span {
+    white-space: 20px;
+}
