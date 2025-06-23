@@ -1,9 +1,10 @@
-
+@import url(https://fonts.googleapis.com/css?family=Anton);
 
 h1 {
 font-size: 50px;
 width: auto;
 text-align: center;
+font-family: 'Anton';
 }
 header {
     background-color: rgb(0,191,42);
@@ -17,13 +18,14 @@ div {
 }
 
 button {
+    font-family: 'Anton';
     border: 1px,solid,rgb(0,191,42);
     background-color: rgb(94,200,0);
     border-radius: 25px;
-    width:100;
+    width: 100px;
     height: 50px;
     font-size: 30px;
-    
+
 }
 
 .current-page {
