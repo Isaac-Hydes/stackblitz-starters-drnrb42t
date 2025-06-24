@@ -40,6 +40,7 @@ button {
     font-weight: lighter;
     margin-right: 100px;
     margin-left: 100px;
+    margin-bottom: 10px;
 }
 
 .current-page {
