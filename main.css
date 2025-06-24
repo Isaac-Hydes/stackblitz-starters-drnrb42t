@@ -26,7 +26,7 @@ p {
 div {
     font-size: 20px;
     display: flex;
-    gap: 100px;
+    justify-content: center;
 }
 
 button {
@@ -38,6 +38,8 @@ button {
     height: 50px;
     font-size: 30px;
     font-weight: lighter;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 .current-page {
