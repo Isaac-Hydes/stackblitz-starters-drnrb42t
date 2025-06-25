@@ -19,10 +19,11 @@ h3 {
 
 h5 {
     font-family: 'Anton';
-    font-size: 20px;
+    font-size: 24px;
     font-weight: lighter;
     margin-top: 30px;
     margin-left: 100px;
+    margin-bottom: 30px;
 }
 
 header {
@@ -42,6 +43,13 @@ p {
     font-family: 'Arial';
 }
 
+a {
+    margin-left: 100px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    font-size: 16px;
+}
+}
 .heading {
     font-size: 24px;
     display: flex;
@@ -51,6 +59,7 @@ p {
 .footer {
     text-align: left;
     width: 49%;
+    color: black;
 }
 button {
     font-family: 'Anton';
