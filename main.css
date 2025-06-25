@@ -1,9 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Anton);
-@import url(https://fonts.googleapis.com/css?family=Arial+Unicode);
 @import url(https://fonts.googleapis.com/css?family=Arial);
 
 h1 {
-font-size: 52px;
+font-size: 48px;
 width: auto;
 text-align: center;
 font-family: 'Anton';
@@ -22,7 +21,6 @@ h5 {
     font-size: 24px;
     font-weight: bold;
     margin-top: 30px;
-    margin-left: 100px;
     margin-bottom: 10px;
 }
 
