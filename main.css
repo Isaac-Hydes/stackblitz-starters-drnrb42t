@@ -20,8 +20,8 @@ h5 {
     font-family: 'Arial';
     font-size: 24px;
     font-weight: bold;
-    margin-top: 30px;
     margin-bottom: 10px;
+    margin-top: 100px;
 }
 
 header {
@@ -32,6 +32,7 @@ header {
 footer {
     background-color: rgb(0,191,42);
     width: auto;
+    margin-top: 40px;
 }
 
 p {
@@ -45,6 +46,7 @@ a {
     margin-bottom: 20px;
     text-decoration: underline;
     font-size: 16px;
+    color: black;
 }
 
 .heading {
@@ -59,6 +61,7 @@ a {
     color: black;
     margin-left: 100px;
 }
+
 button {
     font-family: 'Anton';
     border: 1px,solid,rgb(0,191,42);
