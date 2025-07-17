@@ -10,6 +10,7 @@ font-weight: lighter;
 }
 
 h3 {
+    margin-top: 40px;
     font-family: 'Anton';
     font-weight: lighter;
     font-size: 36px;
@@ -37,6 +38,7 @@ footer {
 p {
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 40px;
     font-size: 18px;
     font-family: 'Arial';
 }
@@ -87,7 +89,6 @@ button {
 
 img {
     width: 50%;
-    margin-left: 100px;
     align-content: center;
     box-align: center;
 }
