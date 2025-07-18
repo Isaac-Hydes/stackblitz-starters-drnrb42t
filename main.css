@@ -17,6 +17,13 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-family: Anton;
+    font-size: 32px;
+    margin-left: 100px;
+    letter-spacing: 0.8px;
+}
+
 h5 {
     font-family: 'Arial';
     font-size: 24px;
