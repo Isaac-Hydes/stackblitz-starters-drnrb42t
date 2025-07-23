@@ -32,6 +32,13 @@ h5 {
     margin-top: 100px;
 }
 
+h6 {
+    font-family: Anton;
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+
 header {
     background-color: rgb(0,191,42);
     width: auto;
@@ -105,4 +112,10 @@ img {
 
 .images{
     text-align: center;
+}
+
+span{
+    font-size: 27px;
+    padding: 50px;
+    font-family: Anton;
 }
