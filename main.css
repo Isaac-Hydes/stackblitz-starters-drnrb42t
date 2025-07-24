@@ -42,15 +42,18 @@ h6 {
 header {
     background-color: rgb(0,191,42);
     width: auto;
-    margin-left: -20px;
-    margin-right: -20px;
-    margin-top: -40px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-top: -30px;
 }
 
 footer {
     background-color: rgb(0,191,42);
     width: auto;
     margin-top: 40px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -10px;
 }
 p {
     margin-left: 100px;
@@ -78,7 +81,7 @@ a {
     color: black;
     margin-left: 100px;
     display: inline-block;
-    width: 43%;
+    width: 40%;
     margin-bottom: 50px;
     vertical-align: text-top;
     margin-top: -50px;
@@ -112,6 +115,12 @@ img {
 
 .images{
     text-align: center;
+}
+
+.litters {
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 50px;
 }
 
 span{
