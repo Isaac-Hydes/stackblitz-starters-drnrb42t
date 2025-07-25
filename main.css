@@ -10,7 +10,7 @@ font-weight: lighter;
 }
 
 h3 {
-    margin-top: 40px;
+    margin-top: 42px;
     font-family: 'Anton';
     font-weight: lighter;
     font-size: 36px;
@@ -121,11 +121,17 @@ img {
 .litters {
     text-align: center;
     margin-right: 100px;
-    margin-top: 50px;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 span{
     font-size: 27px;
     padding: 50px;
     font-family: Anton;
+}
+
+.head{
+    margin-bottom: 80px;
+    margin-top: 80px;
 }
